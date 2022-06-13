@@ -32,4 +32,4 @@ jobs:
           tags: |
             ghcr.io/sthorsten/python-poetry-devcontainer:latest
             ghcr.io/sthorsten/python-poetry-devcontainer:3.10
-            
+            ghcr.io/sthorsten/python-poetry-devcontainer:3.10-poetry1.1.13
